@@ -1,34 +1,23 @@
-# Job 02
+# Job 02 - Structuring Content with Semantic HTML Tags
 
-In this task, we're structuring our web page using semantic HTML elements. We're building a "One Piece Fan Page" to engage and inform fellow fans of this epic anime and manga series.
+In this task, you structured the content of an HTML page using semantic HTML tags, such as `<header>`, `<nav>`, `<main>`, `<article>`, `<section>`, `<aside>`, and `<footer>`.
 
-## HTML Structure
+### Questions:
 
-We've used a clean and semantic HTML structure for our One Piece Fan Page:
+1. Why is it important to use semantic HTML tags?
 
-- The `<header>` section welcomes visitors to the "New World."
-- The `<nav>` section contains navigation links to different sections of the page.
-- The `<main>` section holds the primary content of the page, with articles for character introductions, the story overview, and information about episodes.
-- The `<aside>` section provides supplementary information about why we love One Piece, fun facts, and additional insights.
-- The `<footer>` section includes a copyright notice and an invitation to set sail and live the dream.
+   - Semantic HTML tags are essential because they provide meaning and structure to the content of a web page. They convey the intended purpose of different sections and elements within the page, making it easier for both browsers and assistive technologies (like screen readers) to understand and interpret the content correctly.
 
-## Meta Tags
+   - Semantic tags also improve the overall maintainability and readability of the code by making it more self-explanatory. Developers can quickly identify the purpose of each section, which aids in collaboration and future updates.
 
-To enhance the webpage's SEO and user experience, we've added meta tags:
+2. How does using semantic HTML tags enhance SEO (Search Engine Optimization)?
 
-- `<meta name="description">`: Provides a brief description of the page's content for search engines and users.
-- `<meta name="keywords">`: Lists relevant keywords related to One Piece to improve discoverability.
+   - Using semantic HTML tags improves SEO because search engines rely on the structure and semantics of a web page to understand its content and context. Semantic tags make it clear which parts of the page are headers, navigation menus, main content, sidebars, and footers.
 
-## Favicon
+   - Search engines can use this structural information to better index and rank the page in search results. For example, using `<header>` and `<nav>` tags tells search engines that these sections contain essential information about the page, improving the page's visibility in relevant search queries.
 
-We've also included a custom favicon for a personalized touch, making our fan page more recognizable in the browser tab.
+3. How does using semantic HTML tags enhance accessibility?
 
-## Improvements
+   - Semantic HTML tags greatly enhance accessibility by providing a logical and hierarchical structure to the content. This structure is crucial for users who rely on assistive technologies, such as screen readers, to navigate and understand web content.
 
-In the `<aside>` section, we've provided additional information about One Piece, shared interesting facts, and invited users to join the Straw Hat Pirates' adventure. This enhances engagement and provides fans with more reasons to explore the series.
-
-Remember to update the content and structure as needed to create an engaging and informative One Piece Fan Page that resonates with fellow fans worldwide!
-
-Feel free to add more content, images, or personalized touches to make your fan page even more unique and exciting.
-
-Enjoy building your One Piece Fan Page!
+   - Screen readers can interpret semantic tags and convey the page's structure to users, making it easier for them to navigate, comprehend, and interact with the content. For example, a screen reader can announce that a certain section is a navigation menu or a main content area, improving the user experience for people with disabilities.
