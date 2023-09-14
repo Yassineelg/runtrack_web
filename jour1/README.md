@@ -1,5 +1,3 @@
-Sure, here's the general README.md for your Day 1 of the runtrack_web:
-
 # Day 1 - SEO and HTML Structuring
 
 Welcome to Day 1 of the runtrack_web program! This day is dedicated to revising the HTML, CSS, and JS languages and learning essential practices for clean and accessible web development. The goal is to build a common foundation among all students.
